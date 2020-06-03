@@ -24,9 +24,10 @@ Follow this format for creating your `map.json`.
   }
 }
 ```
-**Parameter for cities**
-"x", "y"    
-> Note that these parameters dont affect the calculations at all. It is only cosmetic purpose.
-**Parameters for roads**
-"c1", "c2", "d"
+**Parameter for cities**  
+`"x", "y"`      
+> Note that these parameters dont affect the calculations at all. It is only cosmetic purpose.  
+
+**Parameters for roads**  
+`"c1", "c2", "d"`  
 > c1 and c2 i.e. cities should be represented by index number. (cityA --> 0, cityB --> 1, cityC --> 2 .... )
