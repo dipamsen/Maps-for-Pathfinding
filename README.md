@@ -1,9 +1,9 @@
 # My-JSON-Data
 This repo is being used for testing Dijkstra's Algorithm.
 ## Raw Map Links (Copy these links for using)
-- Map 1 - https://raw.githubusercontent.com/dipamsen/My-JSON-Data/master/map1.json
-- Map 2 - https://raw.githubusercontent.com/dipamsen/My-JSON-Data/master/map2.json
-- Map 3 - https://raw.githubusercontent.com/dipamsen/My-JSON-Data/master/map3.json
+- Map 1 - https://raw.githubusercontent.com/dipamsen/Maps-for-Pathfinding/master/map1.json
+- Map 2 - https://raw.githubusercontent.com/dipamsen/Maps-for-Pathfinding/master/map2.json
+- Map 3 - https://raw.githubusercontent.com/dipamsen/Maps-for-Pathfinding/master/map3.json
 ___
 ## Usage
 Currently Compatiable with [Dijkstra's Algorithm Project](https://github.com/dipamsen/Dijkstra-s-algorithm).
